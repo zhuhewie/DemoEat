@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="eat_address">
+
+        <item>陕西面馆</item>
+        <item>三及第</item>
+        <item>藏湘馆</item>
+        <item>四川小面</item>
+        <item>大碗小面</item>
+        <item>重庆小面</item>
+        <item>汤饭</item>
+        <item>张记瓦罐汤</item>
+        <item>猪脚饭</item>
+        <item>肯德基</item>
+        <item>真功夫</item>
+        <item>黄焖鸡</item>
+        <item>港饮港食</item>
+        <item>味皇</item>
+        <item>潮汕卤水快餐</item>
+        <item>山西面馆《市场门口》</item>
+        <item>排骨汤米饭</item>
+        <item>烧鹅仔</item>
+        <item>十块钱两肉两素《停车场》</item>
+        <item>市场里边饺子馆《免费瓜子》</item>
+        <item>佳都食堂</item>
+        <item>潮汕娜姐 </item>
+        <item>原味汤粉 </item>
+        <item>潮汕美食 </item>
+        <item>珍味 </item>
+        <item>牛肉拉面 </item>
+        <item>喜临门 </item>
+        <item>张记瓦罐汤</item>
+        <item>麻辣烫</item>
+        <item>都城</item>
+
+
+    </string-array>
+</resources>
